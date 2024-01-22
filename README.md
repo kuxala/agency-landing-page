@@ -5,7 +5,6 @@
 
 ## Available Scripts
 [Live Here](https://agency-landing-page-g371gcocp-kuxalas-projects.vercel.app/)
-In the project directory, you can run:
 
 ### `npm start`
 

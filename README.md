@@ -1,10 +1,10 @@
 # Getting Started with Create React App
 ![](scrr.png)
-[Live Here](https://agency-landing-page-g371gcocp-kuxalas-projects.vercel.app/)
+
 
 
 ## Available Scripts
-
+[Live Here](https://agency-landing-page-g371gcocp-kuxalas-projects.vercel.app/)
 In the project directory, you can run:
 
 ### `npm start`
